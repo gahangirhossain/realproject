@@ -1,0 +1,10 @@
+GET http://localhost:5000/customers
+###
+
+POST http://localhost:5000/customer
+###
+
+PUT http://localhost:5000/customer/1001
+###
+
+DELETE http://localhost:5000/customer/1001
